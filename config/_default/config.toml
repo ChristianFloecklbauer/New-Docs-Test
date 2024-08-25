@@ -1,0 +1,60 @@
+baseURL = "https://docs.belware.de/"
+title = "Connector 365 Online Hilfe"
+theme = "zdoc"
+
+defaultContentLanguage = "de-de"
+defaultContentLanguageInSubdir = true
+hasCJKLanguage = false
+
+copyright = "&copy;{year} - Germany - BELWARE® GmbH - Dorsten"
+timeout = 10000
+enableEmoji = true
+paginate = 13
+rssLimit = 100
+
+googleAnalytics = "G-L6D63KJZ9Q"
+AnonymizeIP = true
+
+disableKinds = ["taxonomyTerm"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = true
+      unsafe = true
+      xHTML = true
+  [markup.highlight]
+    codeFences = true
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = false
+  [markup.tableOfContents]
+    endLevel = 4
+    ordered = false
+    startLevel = 2
+
+[outputFormats]
+  [outputFormats.SearchIndex]
+    mediaType = "application/json"
+    baseName = "searchindex"
+    isPlainText = true
+    notAlternative = true
+
+[outputs]
+  home = ["HTML", "RSS", "SearchIndex", "JSON"]
+  section = ["HTML", "RSS", "SearchIndex", "JSON"]
+  taxonomyTerm = ["HTML", "RSS", "SearchIndex", "JSON"]
+  taxonomy = ["HTML", "RSS", "SearchIndex", "JSON"]
+
+[taxonomies]
+  tag = "tags"
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = false
+    useSessionStorage = false
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = false

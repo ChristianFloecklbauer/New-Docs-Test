@@ -1,0 +1,5 @@
+[[main]]
+  identifier = "legalnotice"
+  name = "Legal Notice"
+  url = "legalnotice"
+  weight = 1
