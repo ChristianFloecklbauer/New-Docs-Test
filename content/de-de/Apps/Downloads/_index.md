@@ -7,7 +7,7 @@ collapsible: false
 weight: 5
 ---
 ### Downloads
-##21.0.0.0
+## 21.0.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/21.0.0.0/Connector%20365%20Addressee%20Control/21.0.0.0_Connector%20365%20Addressee%20Control_1.7.9829.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/21.0.0.0/Connector%20365%20Base/21.0.0.0_Connector%20365%20Base_2.22.11435.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/21.0.0.0/Connector%20365%20CTI%20for%20STARFACE/21.0.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9292.1_RT.app)
@@ -19,7 +19,7 @@ weight: 5
 [Connector 365 Mail Subject Plus](https://belwareapps.blob.core.windows.net/apps/21.0.0.0/Connector%20365%20Mail%20Subject%20Plus/21.0.0.0_Connector%20365%20Mail%20Subject%20Plus_2.9.9436.0_RT.app)
 [Connector 365 Report Layout Plus](https://belwareapps.blob.core.windows.net/apps/21.0.0.0/Connector%20365%20Report%20Layout%20Plus/21.0.0.0_Connector%20365%20Report%20Layout%20Plus_1.5.11283.3_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/21.0.0.0/Connector%20365%20pdfPaper/21.0.0.0_Connector%20365%20pdfPaper_1.9.9544.1_RT.app)
-##21.1.0.0
+## 21.1.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/21.1.0.0/Connector%20365%20Addressee%20Control/21.1.0.0_Connector%20365%20Addressee%20Control_1.7.9828.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/21.1.0.0/Connector%20365%20Base/21.1.0.0_Connector%20365%20Base_2.22.11434.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/21.1.0.0/Connector%20365%20CTI%20for%20STARFACE/21.1.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9291.1_RT.app)
@@ -31,7 +31,7 @@ weight: 5
 [Connector 365 Mail Subject Plus](https://belwareapps.blob.core.windows.net/apps/21.1.0.0/Connector%20365%20Mail%20Subject%20Plus/21.1.0.0_Connector%20365%20Mail%20Subject%20Plus_2.9.9435.0_RT.app)
 [Connector 365 Report Layout Plus](https://belwareapps.blob.core.windows.net/apps/21.1.0.0/Connector%20365%20Report%20Layout%20Plus/21.1.0.0_Connector%20365%20Report%20Layout%20Plus_1.5.11282.3_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/21.1.0.0/Connector%20365%20pdfPaper/21.1.0.0_Connector%20365%20pdfPaper_1.9.9543.1_RT.app)
-##21.10.0.0
+## 21.10.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/21.10.0.0/Connector%20365%20Addressee%20Control/21.10.0.0_Connector%20365%20Addressee%20Control_1.7.9819.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/21.10.0.0/Connector%20365%20Base/21.10.0.0_Connector%20365%20Base_2.22.11425.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/21.10.0.0/Connector%20365%20CTI%20for%20STARFACE/21.10.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9282.1_RT.app)
@@ -45,7 +45,7 @@ weight: 5
 [Connector 365 Report Layout Plus](https://belwareapps.blob.core.windows.net/apps/21.10.0.0/Connector%20365%20Report%20Layout%20Plus/21.10.0.0_Connector%20365%20Report%20Layout%20Plus_1.5.11273.3_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/21.10.0.0/Connector%20365%20XRechnung/21.10.0.0_Connector%20365%20XRechnung_2.9.9102.10_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/21.10.0.0/Connector%20365%20pdfPaper/21.10.0.0_Connector%20365%20pdfPaper_1.9.9534.1_RT.app)
-##21.11.0.0
+## 21.11.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/21.11.0.0/Connector%20365%20Addressee%20Control/21.11.0.0_Connector%20365%20Addressee%20Control_1.7.9818.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/21.11.0.0/Connector%20365%20Base/21.11.0.0_Connector%20365%20Base_2.22.11424.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/21.11.0.0/Connector%20365%20CTI%20for%20STARFACE/21.11.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9281.1_RT.app)
@@ -59,7 +59,7 @@ weight: 5
 [Connector 365 Report Layout Plus](https://belwareapps.blob.core.windows.net/apps/21.11.0.0/Connector%20365%20Report%20Layout%20Plus/21.11.0.0_Connector%20365%20Report%20Layout%20Plus_1.5.11272.3_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/21.11.0.0/Connector%20365%20XRechnung/21.11.0.0_Connector%20365%20XRechnung_2.9.9101.10_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/21.11.0.0/Connector%20365%20pdfPaper/21.11.0.0_Connector%20365%20pdfPaper_1.9.9533.1_RT.app)
-##21.12.0.0
+## 21.12.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/21.12.0.0/Connector%20365%20Addressee%20Control/21.12.0.0_Connector%20365%20Addressee%20Control_1.7.9817.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/21.12.0.0/Connector%20365%20Base/21.12.0.0_Connector%20365%20Base_2.22.11423.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/21.12.0.0/Connector%20365%20CTI%20for%20STARFACE/21.12.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9280.1_RT.app)
@@ -73,7 +73,7 @@ weight: 5
 [Connector 365 Report Layout Plus](https://belwareapps.blob.core.windows.net/apps/21.12.0.0/Connector%20365%20Report%20Layout%20Plus/21.12.0.0_Connector%20365%20Report%20Layout%20Plus_1.5.11271.3_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/21.12.0.0/Connector%20365%20XRechnung/21.12.0.0_Connector%20365%20XRechnung_2.9.9100.10_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/21.12.0.0/Connector%20365%20pdfPaper/21.12.0.0_Connector%20365%20pdfPaper_1.9.9532.1_RT.app)
-##21.13.0.0
+## 21.13.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/21.13.0.0/Connector%20365%20Addressee%20Control/21.13.0.0_Connector%20365%20Addressee%20Control_1.7.9816.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/21.13.0.0/Connector%20365%20Base/21.13.0.0_Connector%20365%20Base_2.22.11422.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/21.13.0.0/Connector%20365%20CTI%20for%20STARFACE/21.13.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9279.1_RT.app)
@@ -87,7 +87,7 @@ weight: 5
 [Connector 365 Report Layout Plus](https://belwareapps.blob.core.windows.net/apps/21.13.0.0/Connector%20365%20Report%20Layout%20Plus/21.13.0.0_Connector%20365%20Report%20Layout%20Plus_1.5.11270.3_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/21.13.0.0/Connector%20365%20XRechnung/21.13.0.0_Connector%20365%20XRechnung_2.9.9099.10_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/21.13.0.0/Connector%20365%20pdfPaper/21.13.0.0_Connector%20365%20pdfPaper_1.9.9531.1_RT.app)
-##21.14.0.0
+## 21.14.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/21.14.0.0/Connector%20365%20Addressee%20Control/21.14.0.0_Connector%20365%20Addressee%20Control_1.7.9815.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/21.14.0.0/Connector%20365%20Base/21.14.0.0_Connector%20365%20Base_2.22.11421.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/21.14.0.0/Connector%20365%20CTI%20for%20STARFACE/21.14.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9278.1_RT.app)
@@ -101,7 +101,7 @@ weight: 5
 [Connector 365 Report Layout Plus](https://belwareapps.blob.core.windows.net/apps/21.14.0.0/Connector%20365%20Report%20Layout%20Plus/21.14.0.0_Connector%20365%20Report%20Layout%20Plus_1.5.11269.3_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/21.14.0.0/Connector%20365%20XRechnung/21.14.0.0_Connector%20365%20XRechnung_2.9.9098.10_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/21.14.0.0/Connector%20365%20pdfPaper/21.14.0.0_Connector%20365%20pdfPaper_1.9.9530.1_RT.app)
-##21.15.0.0
+## 21.15.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/21.15.0.0/Connector%20365%20Addressee%20Control/21.15.0.0_Connector%20365%20Addressee%20Control_1.7.9814.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/21.15.0.0/Connector%20365%20Base/21.15.0.0_Connector%20365%20Base_2.22.11420.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/21.15.0.0/Connector%20365%20CTI%20for%20STARFACE/21.15.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9277.1_RT.app)
@@ -115,7 +115,7 @@ weight: 5
 [Connector 365 Report Layout Plus](https://belwareapps.blob.core.windows.net/apps/21.15.0.0/Connector%20365%20Report%20Layout%20Plus/21.15.0.0_Connector%20365%20Report%20Layout%20Plus_1.5.11268.3_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/21.15.0.0/Connector%20365%20XRechnung/21.15.0.0_Connector%20365%20XRechnung_2.9.9097.10_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/21.15.0.0/Connector%20365%20pdfPaper/21.15.0.0_Connector%20365%20pdfPaper_1.9.9529.1_RT.app)
-##21.16.0.0
+## 21.16.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/21.16.0.0/Connector%20365%20Addressee%20Control/21.16.0.0_Connector%20365%20Addressee%20Control_1.7.9813.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/21.16.0.0/Connector%20365%20Base/21.16.0.0_Connector%20365%20Base_2.22.11419.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/21.16.0.0/Connector%20365%20CTI%20for%20STARFACE/21.16.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9276.1_RT.app)
@@ -129,7 +129,7 @@ weight: 5
 [Connector 365 Report Layout Plus](https://belwareapps.blob.core.windows.net/apps/21.16.0.0/Connector%20365%20Report%20Layout%20Plus/21.16.0.0_Connector%20365%20Report%20Layout%20Plus_1.5.11267.3_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/21.16.0.0/Connector%20365%20XRechnung/21.16.0.0_Connector%20365%20XRechnung_2.9.9096.10_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/21.16.0.0/Connector%20365%20pdfPaper/21.16.0.0_Connector%20365%20pdfPaper_1.9.9528.1_RT.app)
-##21.17.0.0
+## 21.17.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/21.17.0.0/Connector%20365%20Addressee%20Control/21.17.0.0_Connector%20365%20Addressee%20Control_1.7.9812.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/21.17.0.0/Connector%20365%20Base/21.17.0.0_Connector%20365%20Base_2.22.11418.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/21.17.0.0/Connector%20365%20CTI%20for%20STARFACE/21.17.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9275.1_RT.app)
@@ -143,7 +143,7 @@ weight: 5
 [Connector 365 Report Layout Plus](https://belwareapps.blob.core.windows.net/apps/21.17.0.0/Connector%20365%20Report%20Layout%20Plus/21.17.0.0_Connector%20365%20Report%20Layout%20Plus_1.5.11266.3_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/21.17.0.0/Connector%20365%20XRechnung/21.17.0.0_Connector%20365%20XRechnung_2.9.9095.10_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/21.17.0.0/Connector%20365%20pdfPaper/21.17.0.0_Connector%20365%20pdfPaper_1.9.9516.1_RT.app)
-##21.18.0.0
+## 21.18.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/21.18.0.0/Connector%20365%20Addressee%20Control/21.18.0.0_Connector%20365%20Addressee%20Control_1.7.9811.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/21.18.0.0/Connector%20365%20Base/21.18.0.0_Connector%20365%20Base_2.22.11417.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/21.18.0.0/Connector%20365%20CTI%20for%20STARFACE/21.18.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9664.1_RT.app)
@@ -157,7 +157,7 @@ weight: 5
 [Connector 365 Report Layout Plus](https://belwareapps.blob.core.windows.net/apps/21.18.0.0/Connector%20365%20Report%20Layout%20Plus/21.18.0.0_Connector%20365%20Report%20Layout%20Plus_1.5.11265.3_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/21.18.0.0/Connector%20365%20XRechnung/21.18.0.0_Connector%20365%20XRechnung_2.9.9654.10_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/21.18.0.0/Connector%20365%20pdfPaper/21.18.0.0_Connector%20365%20pdfPaper_1.9.9656.1_RT.app)
-##21.2.0.0
+## 21.2.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/21.2.0.0/Connector%20365%20Addressee%20Control/21.2.0.0_Connector%20365%20Addressee%20Control_1.7.9827.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/21.2.0.0/Connector%20365%20Base/21.2.0.0_Connector%20365%20Base_2.22.11433.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/21.2.0.0/Connector%20365%20CTI%20for%20STARFACE/21.2.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9290.1_RT.app)
@@ -169,7 +169,7 @@ weight: 5
 [Connector 365 Mail Subject Plus](https://belwareapps.blob.core.windows.net/apps/21.2.0.0/Connector%20365%20Mail%20Subject%20Plus/21.2.0.0_Connector%20365%20Mail%20Subject%20Plus_2.9.9434.0_RT.app)
 [Connector 365 Report Layout Plus](https://belwareapps.blob.core.windows.net/apps/21.2.0.0/Connector%20365%20Report%20Layout%20Plus/21.2.0.0_Connector%20365%20Report%20Layout%20Plus_1.5.11281.3_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/21.2.0.0/Connector%20365%20pdfPaper/21.2.0.0_Connector%20365%20pdfPaper_1.9.9542.1_RT.app)
-##21.3.0.0
+## 21.3.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/21.3.0.0/Connector%20365%20Addressee%20Control/21.3.0.0_Connector%20365%20Addressee%20Control_1.7.9826.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/21.3.0.0/Connector%20365%20Base/21.3.0.0_Connector%20365%20Base_2.22.11432.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/21.3.0.0/Connector%20365%20CTI%20for%20STARFACE/21.3.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9289.1_RT.app)
@@ -181,7 +181,7 @@ weight: 5
 [Connector 365 Mail Subject Plus](https://belwareapps.blob.core.windows.net/apps/21.3.0.0/Connector%20365%20Mail%20Subject%20Plus/21.3.0.0_Connector%20365%20Mail%20Subject%20Plus_2.9.9433.0_RT.app)
 [Connector 365 Report Layout Plus](https://belwareapps.blob.core.windows.net/apps/21.3.0.0/Connector%20365%20Report%20Layout%20Plus/21.3.0.0_Connector%20365%20Report%20Layout%20Plus_1.5.11280.3_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/21.3.0.0/Connector%20365%20pdfPaper/21.3.0.0_Connector%20365%20pdfPaper_1.9.9541.1_RT.app)
-##21.4.0.0
+## 21.4.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/21.4.0.0/Connector%20365%20Addressee%20Control/21.4.0.0_Connector%20365%20Addressee%20Control_1.7.9825.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/21.4.0.0/Connector%20365%20Base/21.4.0.0_Connector%20365%20Base_2.22.11431.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/21.4.0.0/Connector%20365%20CTI%20for%20STARFACE/21.4.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9288.1_RT.app)
@@ -194,7 +194,7 @@ weight: 5
 [Connector 365 Mail Subject Plus](https://belwareapps.blob.core.windows.net/apps/21.4.0.0/Connector%20365%20Mail%20Subject%20Plus/21.4.0.0_Connector%20365%20Mail%20Subject%20Plus_2.9.9432.0_RT.app)
 [Connector 365 Report Layout Plus](https://belwareapps.blob.core.windows.net/apps/21.4.0.0/Connector%20365%20Report%20Layout%20Plus/21.4.0.0_Connector%20365%20Report%20Layout%20Plus_1.5.11279.3_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/21.4.0.0/Connector%20365%20pdfPaper/21.4.0.0_Connector%20365%20pdfPaper_1.9.9540.1_RT.app)
-##21.5.0.0
+## 21.5.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/21.5.0.0/Connector%20365%20Addressee%20Control/21.5.0.0_Connector%20365%20Addressee%20Control_1.7.9824.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/21.5.0.0/Connector%20365%20Base/21.5.0.0_Connector%20365%20Base_2.22.11430.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/21.5.0.0/Connector%20365%20CTI%20for%20STARFACE/21.5.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9287.1_RT.app)
@@ -207,7 +207,7 @@ weight: 5
 [Connector 365 Mail Subject Plus](https://belwareapps.blob.core.windows.net/apps/21.5.0.0/Connector%20365%20Mail%20Subject%20Plus/21.5.0.0_Connector%20365%20Mail%20Subject%20Plus_2.9.9431.0_RT.app)
 [Connector 365 Report Layout Plus](https://belwareapps.blob.core.windows.net/apps/21.5.0.0/Connector%20365%20Report%20Layout%20Plus/21.5.0.0_Connector%20365%20Report%20Layout%20Plus_1.5.11278.3_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/21.5.0.0/Connector%20365%20pdfPaper/21.5.0.0_Connector%20365%20pdfPaper_1.9.9539.1_RT.app)
-##21.6.0.0
+## 21.6.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/21.6.0.0/Connector%20365%20Addressee%20Control/21.6.0.0_Connector%20365%20Addressee%20Control_1.7.9823.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/21.6.0.0/Connector%20365%20Base/21.6.0.0_Connector%20365%20Base_2.22.11429.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/21.6.0.0/Connector%20365%20CTI%20for%20STARFACE/21.6.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9286.1_RT.app)
@@ -221,7 +221,7 @@ weight: 5
 [Connector 365 Report Layout Plus](https://belwareapps.blob.core.windows.net/apps/21.6.0.0/Connector%20365%20Report%20Layout%20Plus/21.6.0.0_Connector%20365%20Report%20Layout%20Plus_1.5.11277.3_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/21.6.0.0/Connector%20365%20XRechnung/21.6.0.0_Connector%20365%20XRechnung_2.9.9106.10_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/21.6.0.0/Connector%20365%20pdfPaper/21.6.0.0_Connector%20365%20pdfPaper_1.9.9538.1_RT.app)
-##21.7.0.0
+## 21.7.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/21.7.0.0/Connector%20365%20Addressee%20Control/21.7.0.0_Connector%20365%20Addressee%20Control_1.7.9822.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/21.7.0.0/Connector%20365%20Base/21.7.0.0_Connector%20365%20Base_2.22.11428.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/21.7.0.0/Connector%20365%20CTI%20for%20STARFACE/21.7.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9285.1_RT.app)
@@ -235,7 +235,7 @@ weight: 5
 [Connector 365 Report Layout Plus](https://belwareapps.blob.core.windows.net/apps/21.7.0.0/Connector%20365%20Report%20Layout%20Plus/21.7.0.0_Connector%20365%20Report%20Layout%20Plus_1.5.11276.3_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/21.7.0.0/Connector%20365%20XRechnung/21.7.0.0_Connector%20365%20XRechnung_2.9.9105.10_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/21.7.0.0/Connector%20365%20pdfPaper/21.7.0.0_Connector%20365%20pdfPaper_1.9.9537.1_RT.app)
-##21.8.0.0
+## 21.8.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/21.8.0.0/Connector%20365%20Addressee%20Control/21.8.0.0_Connector%20365%20Addressee%20Control_1.7.9821.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/21.8.0.0/Connector%20365%20Base/21.8.0.0_Connector%20365%20Base_2.22.11427.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/21.8.0.0/Connector%20365%20CTI%20for%20STARFACE/21.8.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9284.1_RT.app)
@@ -249,7 +249,7 @@ weight: 5
 [Connector 365 Report Layout Plus](https://belwareapps.blob.core.windows.net/apps/21.8.0.0/Connector%20365%20Report%20Layout%20Plus/21.8.0.0_Connector%20365%20Report%20Layout%20Plus_1.5.11275.3_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/21.8.0.0/Connector%20365%20XRechnung/21.8.0.0_Connector%20365%20XRechnung_2.9.9104.10_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/21.8.0.0/Connector%20365%20pdfPaper/21.8.0.0_Connector%20365%20pdfPaper_1.9.9536.1_RT.app)
-##21.9.0.0
+## 21.9.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/21.9.0.0/Connector%20365%20Addressee%20Control/21.9.0.0_Connector%20365%20Addressee%20Control_1.7.9820.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/21.9.0.0/Connector%20365%20Base/21.9.0.0_Connector%20365%20Base_2.22.11426.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/21.9.0.0/Connector%20365%20CTI%20for%20STARFACE/21.9.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9283.1_RT.app)
@@ -263,13 +263,13 @@ weight: 5
 [Connector 365 Report Layout Plus](https://belwareapps.blob.core.windows.net/apps/21.9.0.0/Connector%20365%20Report%20Layout%20Plus/21.9.0.0_Connector%20365%20Report%20Layout%20Plus_1.5.11274.3_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/21.9.0.0/Connector%20365%20XRechnung/21.9.0.0_Connector%20365%20XRechnung_2.9.9103.10_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/21.9.0.0/Connector%20365%20pdfPaper/21.9.0.0_Connector%20365%20pdfPaper_1.9.9535.1_RT.app)
-##22.0.0.0
+## 22.0.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/22.0.0.0/Connector%20365%20Addressee%20Control/22.0.0.0_Connector%20365%20Addressee%20Control_1.7.9013.7_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/22.0.0.0/Connector%20365%20Base/22.0.0.0_Connector%20365%20Base_2.20.8901.5_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/22.0.0.0/Connector%20365%20CTI%20for%20STARFACE/22.0.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.8721.1_RT.app)
 [Connector 365 Custom Filename](https://belwareapps.blob.core.windows.net/apps/22.0.0.0/Connector%20365%20Custom%20Filename/22.0.0.0_Connector%20365%20Custom%20Filename_1.2.8757.1_RT.app)
 [Connector 365 Easy Document Pin](https://belwareapps.blob.core.windows.net/apps/22.0.0.0/Connector%20365%20Easy%20Document%20Pin/22.0.0.0_Connector%20365%20Easy%20Document%20Pin_2.1.8793.1_RT.app)
-##22.1.0.0
+## 22.1.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/22.1.0.0/Connector%20365%20Addressee%20Control/22.1.0.0_Connector%20365%20Addressee%20Control_1.7.9809.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/22.1.0.0/Connector%20365%20Base/22.1.0.0_Connector%20365%20Base_2.22.11415.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/22.1.0.0/Connector%20365%20CTI%20for%20STARFACE/22.1.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9273.1_RT.app)
@@ -285,7 +285,7 @@ weight: 5
 [Connector 365 SMTP2FAX](https://belwareapps.blob.core.windows.net/apps/22.1.0.0/Connector%20365%20SMTP2FAX/22.1.0.0_Connector%20365%20SMTP2FAX_1.1.9505.1_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/22.1.0.0/Connector%20365%20XRechnung/22.1.0.0_Connector%20365%20XRechnung_2.9.9093.10_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/22.1.0.0/Connector%20365%20pdfPaper/22.1.0.0_Connector%20365%20pdfPaper_1.9.9509.1_RT.app)
-##22.10.0.0
+## 22.10.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/22.10.0.0/Connector%20365%20Addressee%20Control/22.10.0.0_Connector%20365%20Addressee%20Control_1.7.9800.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/22.10.0.0/Connector%20365%20Base/22.10.0.0_Connector%20365%20Base_2.22.11406.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/22.10.0.0/Connector%20365%20CTI%20for%20STARFACE/22.10.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9264.1_RT.app)
@@ -301,7 +301,7 @@ weight: 5
 [Connector 365 SMTP2FAX](https://belwareapps.blob.core.windows.net/apps/22.10.0.0/Connector%20365%20SMTP2FAX/22.10.0.0_Connector%20365%20SMTP2FAX_1.1.9496.1_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/22.10.0.0/Connector%20365%20XRechnung/22.10.0.0_Connector%20365%20XRechnung_2.9.9084.10_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/22.10.0.0/Connector%20365%20pdfPaper/22.10.0.0_Connector%20365%20pdfPaper_1.9.9478.1_RT.app)
-##22.11.0.0
+## 22.11.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/22.11.0.0/Connector%20365%20Addressee%20Control/22.11.0.0_Connector%20365%20Addressee%20Control_1.7.9799.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/22.11.0.0/Connector%20365%20Base/22.11.0.0_Connector%20365%20Base_2.22.11405.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/22.11.0.0/Connector%20365%20CTI%20for%20STARFACE/22.11.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9263.1_RT.app)
@@ -317,7 +317,7 @@ weight: 5
 [Connector 365 SMTP2FAX](https://belwareapps.blob.core.windows.net/apps/22.11.0.0/Connector%20365%20SMTP2FAX/22.11.0.0_Connector%20365%20SMTP2FAX_1.1.9495.1_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/22.11.0.0/Connector%20365%20XRechnung/22.11.0.0_Connector%20365%20XRechnung_2.9.9083.10_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/22.11.0.0/Connector%20365%20pdfPaper/22.11.0.0_Connector%20365%20pdfPaper_1.9.9469.1_RT.app)
-##22.12.0.0
+## 22.12.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/22.12.0.0/Connector%20365%20Addressee%20Control/22.12.0.0_Connector%20365%20Addressee%20Control_1.7.9798.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/22.12.0.0/Connector%20365%20Base/22.12.0.0_Connector%20365%20Base_2.22.11404.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/22.12.0.0/Connector%20365%20CTI%20for%20STARFACE/22.12.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9679.1_RT.app)
@@ -333,7 +333,7 @@ weight: 5
 [Connector 365 SMTP2FAX](https://belwareapps.blob.core.windows.net/apps/22.12.0.0/Connector%20365%20SMTP2FAX/22.12.0.0_Connector%20365%20SMTP2FAX_1.1.9670.1_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/22.12.0.0/Connector%20365%20XRechnung/22.12.0.0_Connector%20365%20XRechnung_2.9.9669.10_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/22.12.0.0/Connector%20365%20pdfPaper/22.12.0.0_Connector%20365%20pdfPaper_1.9.9671.1_RT.app)
-##22.13.0.0
+## 22.13.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/22.13.0.0/Connector%20365%20Addressee%20Control/22.13.0.0_Connector%20365%20Addressee%20Control_1.7.11202.11_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/22.13.0.0/Connector%20365%20Base/22.13.0.0_Connector%20365%20Base_2.22.11403.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/22.13.0.0/Connector%20365%20CTI%20for%20STARFACE/22.13.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.10494.1_RT.app)
@@ -348,7 +348,7 @@ weight: 5
 [Connector 365 SMTP2FAX](https://belwareapps.blob.core.windows.net/apps/22.13.0.0/Connector%20365%20SMTP2FAX/22.13.0.0_Connector%20365%20SMTP2FAX_1.1.10485.1_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/22.13.0.0/Connector%20365%20XRechnung/22.13.0.0_Connector%20365%20XRechnung_2.9.11153.13_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/22.13.0.0/Connector%20365%20pdfPaper/22.13.0.0_Connector%20365%20pdfPaper_1.9.10486.1_RT.app)
-##22.14.0.0
+## 22.14.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/22.14.0.0/Connector%20365%20Addressee%20Control/22.14.0.0_Connector%20365%20Addressee%20Control_1.7.11201.11_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/22.14.0.0/Connector%20365%20Base/22.14.0.0_Connector%20365%20Base_2.22.11402.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/22.14.0.0/Connector%20365%20CTI%20for%20STARFACE/22.14.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.10509.1_RT.app)
@@ -364,7 +364,7 @@ weight: 5
 [Connector 365 SMTP2FAX](https://belwareapps.blob.core.windows.net/apps/22.14.0.0/Connector%20365%20SMTP2FAX/22.14.0.0_Connector%20365%20SMTP2FAX_1.1.10500.1_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/22.14.0.0/Connector%20365%20XRechnung/22.14.0.0_Connector%20365%20XRechnung_2.9.11152.13_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/22.14.0.0/Connector%20365%20pdfPaper/22.14.0.0_Connector%20365%20pdfPaper_1.9.10501.1_RT.app)
-##22.15.0.0
+## 22.15.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/22.15.0.0/Connector%20365%20Addressee%20Control/22.15.0.0_Connector%20365%20Addressee%20Control_1.7.11200.11_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/22.15.0.0/Connector%20365%20Base/22.15.0.0_Connector%20365%20Base_2.22.11401.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/22.15.0.0/Connector%20365%20CTI%20for%20STARFACE/22.15.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.11056.1_RT.app)
@@ -380,7 +380,7 @@ weight: 5
 [Connector 365 SMTP2FAX](https://belwareapps.blob.core.windows.net/apps/22.15.0.0/Connector%20365%20SMTP2FAX/22.15.0.0_Connector%20365%20SMTP2FAX_1.1.11047.1_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/22.15.0.0/Connector%20365%20XRechnung/22.15.0.0_Connector%20365%20XRechnung_2.9.11151.13_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/22.15.0.0/Connector%20365%20pdfPaper/22.15.0.0_Connector%20365%20pdfPaper_1.9.11048.1_RT.app)
-##22.16.0.0
+## 22.16.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/22.16.0.0/Connector%20365%20Addressee%20Control/22.16.0.0_Connector%20365%20Addressee%20Control_1.7.11341.11_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/22.16.0.0/Connector%20365%20Base/22.16.0.0_Connector%20365%20Base_2.22.11400.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/22.16.0.0/Connector%20365%20CTI%20for%20STARFACE/22.16.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.11353.1_RT.app)
@@ -396,7 +396,7 @@ weight: 5
 [Connector 365 SMTP2FAX](https://belwareapps.blob.core.windows.net/apps/22.16.0.0/Connector%20365%20SMTP2FAX/22.16.0.0_Connector%20365%20SMTP2FAX_1.1.11344.1_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/22.16.0.0/Connector%20365%20XRechnung/22.16.0.0_Connector%20365%20XRechnung_2.9.11343.13_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/22.16.0.0/Connector%20365%20pdfPaper/22.16.0.0_Connector%20365%20pdfPaper_1.9.11345.1_RT.app)
-##22.2.0.0
+## 22.2.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/22.2.0.0/Connector%20365%20Addressee%20Control/22.2.0.0_Connector%20365%20Addressee%20Control_1.7.9808.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/22.2.0.0/Connector%20365%20Base/22.2.0.0_Connector%20365%20Base_2.22.11414.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/22.2.0.0/Connector%20365%20CTI%20for%20STARFACE/22.2.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9272.1_RT.app)
@@ -412,7 +412,7 @@ weight: 5
 [Connector 365 SMTP2FAX](https://belwareapps.blob.core.windows.net/apps/22.2.0.0/Connector%20365%20SMTP2FAX/22.2.0.0_Connector%20365%20SMTP2FAX_1.1.9504.1_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/22.2.0.0/Connector%20365%20XRechnung/22.2.0.0_Connector%20365%20XRechnung_2.9.9092.10_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/22.2.0.0/Connector%20365%20pdfPaper/22.2.0.0_Connector%20365%20pdfPaper_1.9.9494.1_RT.app)
-##22.3.0.0
+## 22.3.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/22.3.0.0/Connector%20365%20Addressee%20Control/22.3.0.0_Connector%20365%20Addressee%20Control_1.7.9807.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/22.3.0.0/Connector%20365%20Base/22.3.0.0_Connector%20365%20Base_2.22.11413.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/22.3.0.0/Connector%20365%20CTI%20for%20STARFACE/22.3.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9271.1_RT.app)
@@ -428,7 +428,7 @@ weight: 5
 [Connector 365 SMTP2FAX](https://belwareapps.blob.core.windows.net/apps/22.3.0.0/Connector%20365%20SMTP2FAX/22.3.0.0_Connector%20365%20SMTP2FAX_1.1.9503.1_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/22.3.0.0/Connector%20365%20XRechnung/22.3.0.0_Connector%20365%20XRechnung_2.9.9091.10_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/22.3.0.0/Connector%20365%20pdfPaper/22.3.0.0_Connector%20365%20pdfPaper_1.9.9492.1_RT.app)
-##22.4.0.0
+## 22.4.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/22.4.0.0/Connector%20365%20Addressee%20Control/22.4.0.0_Connector%20365%20Addressee%20Control_1.7.9806.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/22.4.0.0/Connector%20365%20Base/22.4.0.0_Connector%20365%20Base_2.22.11412.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/22.4.0.0/Connector%20365%20CTI%20for%20STARFACE/22.4.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9270.1_RT.app)
@@ -444,7 +444,7 @@ weight: 5
 [Connector 365 SMTP2FAX](https://belwareapps.blob.core.windows.net/apps/22.4.0.0/Connector%20365%20SMTP2FAX/22.4.0.0_Connector%20365%20SMTP2FAX_1.1.9502.1_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/22.4.0.0/Connector%20365%20XRechnung/22.4.0.0_Connector%20365%20XRechnung_2.9.9090.10_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/22.4.0.0/Connector%20365%20pdfPaper/22.4.0.0_Connector%20365%20pdfPaper_1.9.9491.1_RT.app)
-##22.5.0.0
+## 22.5.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/22.5.0.0/Connector%20365%20Addressee%20Control/22.5.0.0_Connector%20365%20Addressee%20Control_1.7.9805.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/22.5.0.0/Connector%20365%20Base/22.5.0.0_Connector%20365%20Base_2.22.11411.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/22.5.0.0/Connector%20365%20CTI%20for%20STARFACE/22.5.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9269.1_RT.app)
@@ -459,7 +459,7 @@ weight: 5
 [Connector 365 Report Layout Plus](https://belwareapps.blob.core.windows.net/apps/22.5.0.0/Connector%20365%20Report%20Layout%20Plus/22.5.0.0_Connector%20365%20Report%20Layout%20Plus_1.5.11259.3_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/22.5.0.0/Connector%20365%20XRechnung/22.5.0.0_Connector%20365%20XRechnung_2.9.9089.10_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/22.5.0.0/Connector%20365%20pdfPaper/22.5.0.0_Connector%20365%20pdfPaper_1.9.9489.1_RT.app)
-##22.6.0.0
+## 22.6.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/22.6.0.0/Connector%20365%20Addressee%20Control/22.6.0.0_Connector%20365%20Addressee%20Control_1.7.9804.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/22.6.0.0/Connector%20365%20Base/22.6.0.0_Connector%20365%20Base_2.22.11410.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/22.6.0.0/Connector%20365%20CTI%20for%20STARFACE/22.6.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9268.1_RT.app)
@@ -475,7 +475,7 @@ weight: 5
 [Connector 365 SMTP2FAX](https://belwareapps.blob.core.windows.net/apps/22.6.0.0/Connector%20365%20SMTP2FAX/22.6.0.0_Connector%20365%20SMTP2FAX_1.1.9500.1_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/22.6.0.0/Connector%20365%20XRechnung/22.6.0.0_Connector%20365%20XRechnung_2.9.9088.10_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/22.6.0.0/Connector%20365%20pdfPaper/22.6.0.0_Connector%20365%20pdfPaper_1.9.9488.1_RT.app)
-##22.7.0.0
+## 22.7.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/22.7.0.0/Connector%20365%20Addressee%20Control/22.7.0.0_Connector%20365%20Addressee%20Control_1.7.9803.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/22.7.0.0/Connector%20365%20Base/22.7.0.0_Connector%20365%20Base_2.22.11409.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/22.7.0.0/Connector%20365%20CTI%20for%20STARFACE/22.7.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9267.1_RT.app)
@@ -491,7 +491,7 @@ weight: 5
 [Connector 365 SMTP2FAX](https://belwareapps.blob.core.windows.net/apps/22.7.0.0/Connector%20365%20SMTP2FAX/22.7.0.0_Connector%20365%20SMTP2FAX_1.1.9499.1_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/22.7.0.0/Connector%20365%20XRechnung/22.7.0.0_Connector%20365%20XRechnung_2.9.9087.10_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/22.7.0.0/Connector%20365%20pdfPaper/22.7.0.0_Connector%20365%20pdfPaper_1.9.9487.1_RT.app)
-##22.8.0.0
+## 22.8.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/22.8.0.0/Connector%20365%20Addressee%20Control/22.8.0.0_Connector%20365%20Addressee%20Control_1.7.9802.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/22.8.0.0/Connector%20365%20Base/22.8.0.0_Connector%20365%20Base_2.22.11408.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/22.8.0.0/Connector%20365%20CTI%20for%20STARFACE/22.8.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9266.1_RT.app)
@@ -507,7 +507,7 @@ weight: 5
 [Connector 365 SMTP2FAX](https://belwareapps.blob.core.windows.net/apps/22.8.0.0/Connector%20365%20SMTP2FAX/22.8.0.0_Connector%20365%20SMTP2FAX_1.1.9498.1_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/22.8.0.0/Connector%20365%20XRechnung/22.8.0.0_Connector%20365%20XRechnung_2.9.9086.10_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/22.8.0.0/Connector%20365%20pdfPaper/22.8.0.0_Connector%20365%20pdfPaper_1.9.9485.1_RT.app)
-##22.9.0.0
+## 22.9.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/22.9.0.0/Connector%20365%20Addressee%20Control/22.9.0.0_Connector%20365%20Addressee%20Control_1.7.9801.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/22.9.0.0/Connector%20365%20Base/22.9.0.0_Connector%20365%20Base_2.22.11407.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/22.9.0.0/Connector%20365%20CTI%20for%20STARFACE/22.9.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9265.1_RT.app)
@@ -523,7 +523,7 @@ weight: 5
 [Connector 365 SMTP2FAX](https://belwareapps.blob.core.windows.net/apps/22.9.0.0/Connector%20365%20SMTP2FAX/22.9.0.0_Connector%20365%20SMTP2FAX_1.1.9497.1_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/22.9.0.0/Connector%20365%20XRechnung/22.9.0.0_Connector%20365%20XRechnung_2.9.9085.10_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/22.9.0.0/Connector%20365%20pdfPaper/22.9.0.0_Connector%20365%20pdfPaper_1.9.9483.1_RT.app)
-##23.0.0.0
+## 23.0.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/23.0.0.0/Connector%20365%20Addressee%20Control/23.0.0.0_Connector%20365%20Addressee%20Control_1.7.9797.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/23.0.0.0/Connector%20365%20Base/23.0.0.0_Connector%20365%20Base_2.22.11399.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/23.0.0.0/Connector%20365%20CTI%20for%20STARFACE/23.0.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9262.1_RT.app)
@@ -539,7 +539,7 @@ weight: 5
 [Connector 365 SMTP2FAX](https://belwareapps.blob.core.windows.net/apps/23.0.0.0/Connector%20365%20SMTP2FAX/23.0.0.0_Connector%20365%20SMTP2FAX_1.1.9493.1_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/23.0.0.0/Connector%20365%20XRechnung/23.0.0.0_Connector%20365%20XRechnung_2.9.9082.10_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/23.0.0.0/Connector%20365%20pdfPaper/23.0.0.0_Connector%20365%20pdfPaper_1.9.9456.1_RT.app)
-##23.1.0.0
+## 23.1.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/23.1.0.0/Connector%20365%20Addressee%20Control/23.1.0.0_Connector%20365%20Addressee%20Control_1.7.9796.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/23.1.0.0/Connector%20365%20Base/23.1.0.0_Connector%20365%20Base_2.22.11398.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/23.1.0.0/Connector%20365%20CTI%20for%20STARFACE/23.1.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9261.1_RT.app)
@@ -555,7 +555,7 @@ weight: 5
 [Connector 365 SMTP2FAX](https://belwareapps.blob.core.windows.net/apps/23.1.0.0/Connector%20365%20SMTP2FAX/23.1.0.0_Connector%20365%20SMTP2FAX_1.1.9490.1_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/23.1.0.0/Connector%20365%20XRechnung/23.1.0.0_Connector%20365%20XRechnung_2.9.9081.10_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/23.1.0.0/Connector%20365%20pdfPaper/23.1.0.0_Connector%20365%20pdfPaper_1.9.9441.1_RT.app)
-##23.10.0.0
+## 23.10.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/23.10.0.0/Connector%20365%20Addressee%20Control/23.10.0.0_Connector%20365%20Addressee%20Control_1.7.11356.11_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/23.10.0.0/Connector%20365%20Base/23.10.0.0_Connector%20365%20Base_2.22.11389.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/23.10.0.0/Connector%20365%20CTI%20for%20STARFACE/23.10.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.11368.1_RT.app)
@@ -571,7 +571,7 @@ weight: 5
 [Connector 365 SMTP2FAX](https://belwareapps.blob.core.windows.net/apps/23.10.0.0/Connector%20365%20SMTP2FAX/23.10.0.0_Connector%20365%20SMTP2FAX_1.1.11359.1_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/23.10.0.0/Connector%20365%20XRechnung/23.10.0.0_Connector%20365%20XRechnung_2.9.11358.13_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/23.10.0.0/Connector%20365%20pdfPaper/23.10.0.0_Connector%20365%20pdfPaper_1.9.11360.1_RT.app)
-##23.2.0.0
+## 23.2.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/23.2.0.0/Connector%20365%20Addressee%20Control/23.2.0.0_Connector%20365%20Addressee%20Control_1.7.9795.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/23.2.0.0/Connector%20365%20Base/23.2.0.0_Connector%20365%20Base_2.22.11397.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/23.2.0.0/Connector%20365%20CTI%20for%20STARFACE/23.2.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9260.1_RT.app)
@@ -587,7 +587,7 @@ weight: 5
 [Connector 365 SMTP2FAX](https://belwareapps.blob.core.windows.net/apps/23.2.0.0/Connector%20365%20SMTP2FAX/23.2.0.0_Connector%20365%20SMTP2FAX_1.1.9486.1_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/23.2.0.0/Connector%20365%20XRechnung/23.2.0.0_Connector%20365%20XRechnung_2.9.9080.10_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/23.2.0.0/Connector%20365%20pdfPaper/23.2.0.0_Connector%20365%20pdfPaper_1.9.9440.1_RT.app)
-##23.3.0.0
+## 23.3.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/23.3.0.0/Connector%20365%20Addressee%20Control/23.3.0.0_Connector%20365%20Addressee%20Control_1.7.9794.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/23.3.0.0/Connector%20365%20Base/23.3.0.0_Connector%20365%20Base_2.22.11396.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/23.3.0.0/Connector%20365%20CTI%20for%20STARFACE/23.3.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9259.1_RT.app)
@@ -603,7 +603,7 @@ weight: 5
 [Connector 365 SMTP2FAX](https://belwareapps.blob.core.windows.net/apps/23.3.0.0/Connector%20365%20SMTP2FAX/23.3.0.0_Connector%20365%20SMTP2FAX_1.1.9484.1_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/23.3.0.0/Connector%20365%20XRechnung/23.3.0.0_Connector%20365%20XRechnung_2.9.9079.10_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/23.3.0.0/Connector%20365%20pdfPaper/23.3.0.0_Connector%20365%20pdfPaper_1.9.9439.1_RT.app)
-##23.4.0.0
+## 23.4.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/23.4.0.0/Connector%20365%20Addressee%20Control/23.4.0.0_Connector%20365%20Addressee%20Control_1.7.9793.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/23.4.0.0/Connector%20365%20Base/23.4.0.0_Connector%20365%20Base_2.22.11395.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/23.4.0.0/Connector%20365%20CTI%20for%20STARFACE/23.4.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9258.1_RT.app)
@@ -619,7 +619,7 @@ weight: 5
 [Connector 365 SMTP2FAX](https://belwareapps.blob.core.windows.net/apps/23.4.0.0/Connector%20365%20SMTP2FAX/23.4.0.0_Connector%20365%20SMTP2FAX_1.1.9482.1_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/23.4.0.0/Connector%20365%20XRechnung/23.4.0.0_Connector%20365%20XRechnung_2.9.9078.10_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/23.4.0.0/Connector%20365%20pdfPaper/23.4.0.0_Connector%20365%20pdfPaper_1.9.9438.1_RT.app)
-##23.5.0.0
+## 23.5.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/23.5.0.0/Connector%20365%20Addressee%20Control/23.5.0.0_Connector%20365%20Addressee%20Control_1.7.9792.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/23.5.0.0/Connector%20365%20Base/23.5.0.0_Connector%20365%20Base_2.22.11394.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/23.5.0.0/Connector%20365%20CTI%20for%20STARFACE/23.5.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9257.1_RT.app)
@@ -634,7 +634,7 @@ weight: 5
 [Connector 365 Report Layout Plus](https://belwareapps.blob.core.windows.net/apps/23.5.0.0/Connector%20365%20Report%20Layout%20Plus/23.5.0.0_Connector%20365%20Report%20Layout%20Plus_1.5.11243.3_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/23.5.0.0/Connector%20365%20XRechnung/23.5.0.0_Connector%20365%20XRechnung_2.9.9077.10_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/23.5.0.0/Connector%20365%20pdfPaper/23.5.0.0_Connector%20365%20pdfPaper_1.9.9437.1_RT.app)
-##23.6.0.0
+## 23.6.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/23.6.0.0/Connector%20365%20Addressee%20Control/23.6.0.0_Connector%20365%20Addressee%20Control_1.7.9791.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/23.6.0.0/Connector%20365%20Base/23.6.0.0_Connector%20365%20Base_2.22.11393.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/23.6.0.0/Connector%20365%20CTI%20for%20STARFACE/23.6.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9694.1_RT.app)
@@ -649,7 +649,7 @@ weight: 5
 [Connector 365 SMTP2FAX](https://belwareapps.blob.core.windows.net/apps/23.6.0.0/Connector%20365%20SMTP2FAX/23.6.0.0_Connector%20365%20SMTP2FAX_1.1.9685.1_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/23.6.0.0/Connector%20365%20XRechnung/23.6.0.0_Connector%20365%20XRechnung_2.9.9684.10_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/23.6.0.0/Connector%20365%20pdfPaper/23.6.0.0_Connector%20365%20pdfPaper_1.9.9686.1_RT.app)
-##23.7.0.0
+## 23.7.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/23.7.0.0/Connector%20365%20Addressee%20Control/23.7.0.0_Connector%20365%20Addressee%20Control_1.7.11192.11_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/23.7.0.0/Connector%20365%20Base/23.7.0.0_Connector%20365%20Base_2.22.11392.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/23.7.0.0/Connector%20365%20CTI%20for%20STARFACE/23.7.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.10524.1_RT.app)
@@ -665,7 +665,7 @@ weight: 5
 [Connector 365 SMTP2FAX](https://belwareapps.blob.core.windows.net/apps/23.7.0.0/Connector%20365%20SMTP2FAX/23.7.0.0_Connector%20365%20SMTP2FAX_1.1.10515.1_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/23.7.0.0/Connector%20365%20XRechnung/23.7.0.0_Connector%20365%20XRechnung_2.9.11143.13_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/23.7.0.0/Connector%20365%20pdfPaper/23.7.0.0_Connector%20365%20pdfPaper_1.9.10516.1_RT.app)
-##23.8.0.0
+## 23.8.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/23.8.0.0/Connector%20365%20Addressee%20Control/23.8.0.0_Connector%20365%20Addressee%20Control_1.7.11191.11_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/23.8.0.0/Connector%20365%20Base/23.8.0.0_Connector%20365%20Base_2.22.11391.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/23.8.0.0/Connector%20365%20CTI%20for%20STARFACE/23.8.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.10539.1_RT.app)
@@ -681,7 +681,7 @@ weight: 5
 [Connector 365 SMTP2FAX](https://belwareapps.blob.core.windows.net/apps/23.8.0.0/Connector%20365%20SMTP2FAX/23.8.0.0_Connector%20365%20SMTP2FAX_1.1.10530.1_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/23.8.0.0/Connector%20365%20XRechnung/23.8.0.0_Connector%20365%20XRechnung_2.9.11142.13_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/23.8.0.0/Connector%20365%20pdfPaper/23.8.0.0_Connector%20365%20pdfPaper_1.9.10531.1_RT.app)
-##23.9.0.0
+## 23.9.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/23.9.0.0/Connector%20365%20Addressee%20Control/23.9.0.0_Connector%20365%20Addressee%20Control_1.7.11190.11_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/23.9.0.0/Connector%20365%20Base/23.9.0.0_Connector%20365%20Base_2.22.11390.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/23.9.0.0/Connector%20365%20CTI%20for%20STARFACE/23.9.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.11071.1_RT.app)
@@ -697,7 +697,7 @@ weight: 5
 [Connector 365 SMTP2FAX](https://belwareapps.blob.core.windows.net/apps/23.9.0.0/Connector%20365%20SMTP2FAX/23.9.0.0_Connector%20365%20SMTP2FAX_1.1.11062.1_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/23.9.0.0/Connector%20365%20XRechnung/23.9.0.0_Connector%20365%20XRechnung_2.9.11141.13_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/23.9.0.0/Connector%20365%20pdfPaper/23.9.0.0_Connector%20365%20pdfPaper_1.9.11063.1_RT.app)
-##24.0.0.0
+## 24.0.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/24.0.0.0/Connector%20365%20Addressee%20Control/24.0.0.0_Connector%20365%20Addressee%20Control_1.7.9790.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/24.0.0.0/Connector%20365%20Base/24.0.0.0_Connector%20365%20Base_2.22.11388.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/24.0.0.0/Connector%20365%20CTI%20for%20STARFACE/24.0.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9709.1_RT.app)
@@ -713,7 +713,7 @@ weight: 5
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/24.0.0.0/Connector%20365%20XRechnung/24.0.0.0_Connector%20365%20XRechnung_2.9.9699.10_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/24.0.0.0/Connector%20365%20pdfPaper/24.0.0.0_Connector%20365%20pdfPaper_1.9.9701.1_RT.app)
 [Connector Upgrade](https://belwareapps.blob.core.windows.net/apps/24.0.0.0/Connector%20Upgrade/24.0.0.0_Connector%20Upgrade_1.1.11338.2_RT.app)
-##24.1.0.0
+## 24.1.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/24.1.0.0/Connector%20365%20Addressee%20Control/24.1.0.0_Connector%20365%20Addressee%20Control_1.7.11188.11_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/24.1.0.0/Connector%20365%20Base/24.1.0.0_Connector%20365%20Base_2.22.11387.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/24.1.0.0/Connector%20365%20CTI%20for%20STARFACE/24.1.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.10554.1_RT.app)
@@ -729,7 +729,7 @@ weight: 5
 [Connector 365 SMTP2FAX](https://belwareapps.blob.core.windows.net/apps/24.1.0.0/Connector%20365%20SMTP2FAX/24.1.0.0_Connector%20365%20SMTP2FAX_1.1.10545.1_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/24.1.0.0/Connector%20365%20XRechnung/24.1.0.0_Connector%20365%20XRechnung_2.9.11139.13_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/24.1.0.0/Connector%20365%20pdfPaper/24.1.0.0_Connector%20365%20pdfPaper_1.9.10546.1_RT.app)
-##24.2.0.0
+## 24.2.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/24.2.0.0/Connector%20365%20Addressee%20Control/24.2.0.0_Connector%20365%20Addressee%20Control_1.7.11187.11_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/24.2.0.0/Connector%20365%20Base/24.2.0.0_Connector%20365%20Base_2.22.11386.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/24.2.0.0/Connector%20365%20CTI%20for%20STARFACE/24.2.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.10569.1_RT.app)
@@ -744,7 +744,7 @@ weight: 5
 [Connector 365 Report Layout Plus](https://belwareapps.blob.core.windows.net/apps/24.2.0.0/Connector%20365%20Report%20Layout%20Plus/24.2.0.0_Connector%20365%20Report%20Layout%20Plus_1.5.11236.3_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/24.2.0.0/Connector%20365%20XRechnung/24.2.0.0_Connector%20365%20XRechnung_2.9.11138.13_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/24.2.0.0/Connector%20365%20pdfPaper/24.2.0.0_Connector%20365%20pdfPaper_1.9.10561.1_RT.app)
-##24.3.0.0
+## 24.3.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/24.3.0.0/Connector%20365%20Addressee%20Control/24.3.0.0_Connector%20365%20Addressee%20Control_1.7.11186.11_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/24.3.0.0/Connector%20365%20Base/24.3.0.0_Connector%20365%20Base_2.22.11385.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/24.3.0.0/Connector%20365%20CTI%20for%20STARFACE/24.3.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.11086.1_RT.app)
@@ -759,7 +759,7 @@ weight: 5
 [Connector 365 Report Layout Plus](https://belwareapps.blob.core.windows.net/apps/24.3.0.0/Connector%20365%20Report%20Layout%20Plus/24.3.0.0_Connector%20365%20Report%20Layout%20Plus_1.5.11235.3_RT.app)
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/24.3.0.0/Connector%20365%20XRechnung/24.3.0.0_Connector%20365%20XRechnung_2.9.11137.13_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/24.3.0.0/Connector%20365%20pdfPaper/24.3.0.0_Connector%20365%20pdfPaper_1.9.11078.1_RT.app)
-##24.4.0.0
+## 24.4.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/24.4.0.0/Connector%20365%20Addressee%20Control/24.4.0.0_Connector%20365%20Addressee%20Control_1.7.11371.11_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/24.4.0.0/Connector%20365%20Base/24.4.0.0_Connector%20365%20Base_2.22.11384.0_RT.app)
 [Connector 365 CTI for STARFACE](https://belwareapps.blob.core.windows.net/apps/24.4.0.0/Connector%20365%20CTI%20for%20STARFACE/24.4.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.11383.1_RT.app)
