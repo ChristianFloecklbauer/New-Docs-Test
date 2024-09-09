@@ -424,6 +424,7 @@ weight: 5
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/22.16.0.0/Connector%20365%20XRechnung/22.16.0.0_Connector%20365%20XRechnung_2.9.11956.13_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/22.16.0.0/Connector%20365%20pdfPaper/22.16.0.0_Connector%20365%20pdfPaper_1.9.11958.1_RT.app)
 [Connector Upgrade](https://belwareapps.blob.core.windows.net/apps/22.16.0.0/Connector%20Upgrade/22.16.0.0_Connector%20Upgrade_1.1.11967.2_RT.app)
+#### 22.17.0.0
 #### 22.2.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/22.2.0.0/Connector%20365%20Addressee%20Control/22.2.0.0_Connector%20365%20Addressee%20Control_1.7.9808.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/22.2.0.0/Connector%20365%20Base/22.2.0.0_Connector%20365%20Base_2.22.11968.0_RT.app)
@@ -611,6 +612,7 @@ weight: 5
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/23.10.0.0/Connector%20365%20XRechnung/23.10.0.0_Connector%20365%20XRechnung_2.9.12184.13_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/23.10.0.0/Connector%20365%20pdfPaper/23.10.0.0_Connector%20365%20pdfPaper_1.9.12186.1_RT.app)
 [Connector Upgrade](https://belwareapps.blob.core.windows.net/apps/23.10.0.0/Connector%20Upgrade/23.10.0.0_Connector%20Upgrade_1.1.12195.2_RT.app)
+#### 23.11.0.0
 #### 23.2.0.0
 [Connector 365 Addressee Control](https://belwareapps.blob.core.windows.net/apps/23.2.0.0/Connector%20365%20Addressee%20Control/23.2.0.0_Connector%20365%20Addressee%20Control_1.7.9795.8_RT.app)
 [Connector 365 Base](https://belwareapps.blob.core.windows.net/apps/23.2.0.0/Connector%20365%20Base/23.2.0.0_Connector%20365%20Base_2.22.12196.0_RT.app)
@@ -831,3 +833,4 @@ weight: 5
 [Connector 365 XRechnung](https://belwareapps.blob.core.windows.net/apps/24.4.0.0/Connector%20365%20XRechnung/24.4.0.0_Connector%20365%20XRechnung_2.9.12392.13_RT.app)
 [Connector 365 pdfPaper](https://belwareapps.blob.core.windows.net/apps/24.4.0.0/Connector%20365%20pdfPaper/24.4.0.0_Connector%20365%20pdfPaper_1.9.12394.1_RT.app)
 [Connector Upgrade](https://belwareapps.blob.core.windows.net/apps/24.4.0.0/Connector%20Upgrade/24.4.0.0_Connector%20Upgrade_1.1.12403.2_RT.app)
+#### 24.5.0.0
