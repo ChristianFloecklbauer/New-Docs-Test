@@ -1,0 +1,15 @@
+name: Update Download Page on BELWARE Docs Website
+on:
+  schedule:
+    - cron:  '0 0 * * *'
+jobs:
+  run-script:
+    runs-on: windows-latest
+
+    steps:
+      - name: Set up PowerShell
+        uses: microsoft/setup-powershell@v3
+
+      - name: Run PowerShell script
+        run: |
+          pwsh -File ./UpdateScript.ps1
