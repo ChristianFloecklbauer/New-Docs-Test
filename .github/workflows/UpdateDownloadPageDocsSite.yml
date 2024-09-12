@@ -13,3 +13,5 @@ jobs:
       - name: Run PowerShell script
         run: |
           pwsh -File ./UpdateScript.ps1
+          env:
+            AZURESTORAGESAS: ${{ secrets.AZURESTORAGESAS }}
