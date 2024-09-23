@@ -12,6 +12,11 @@ jobs:
 
       - name: Run PowerShell script
         run: |
-          pwsh -File ./UpdateScript.ps1
+          pwsh -File ./UpdateDownloadDocs.ps1
           env:
-            AZURESTORAGESAS: ${{ secrets.AZURESTORAGESAS }}
+            ClientId: ${{ secrets.CLIENT_ID }}
+
+      - name: Run PowerShell Script with Secret
+        shell: pwsh
+        run: |
+          ./script.ps1 -ClientId: ${{ secrets.CLIENT_ID }} -ClientSecret: ${{ secrets.CLIENT_SECRET }} TenantId: ${{ secrets.TENANT_ID }}
