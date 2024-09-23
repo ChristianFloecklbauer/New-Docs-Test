@@ -7,14 +7,8 @@ jobs:
     runs-on: windows-latest
 
     steps:
-      - name: Set up PowerShell
-        uses: microsoft/setup-powershell@v3
-
-      - name: Run PowerShell script
-        run: |
-          pwsh -File ./UpdateDownloadDocs.ps1
-          env:
-            ClientId: ${{ secrets.CLIENT_ID }}
+      - name: Checkout code
+        uses: actions/checkout@v3  # Checkout the code from your repository
 
       - name: Run PowerShell Script with Secret
         shell: pwsh
