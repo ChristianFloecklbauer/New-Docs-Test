@@ -1,6 +1,9 @@
-﻿$TenantId = "a73cb8c1-7950-4ec2-b413-7edf11627a80"
-$ClientId = $env:CLIENT_ID
-$ClientSecret = $env:CLIENT_SECRET
+param (
+    [string]$ClientId,
+    [string]$ClientSecret,
+    [string]$TenantId
+)
+
 $Scope = "https://storage.azure.com/.default"
 $TokenEndpoint = "https://login.microsoftonline.com/$tenantId/oauth2/v2.0/token"
 $Body = @{
