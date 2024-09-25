@@ -1,9 +1,10 @@
 param (
     [string]$ClientId,
     [string]$ClientSecret,
-    [string]$TenantId
+    [string]$TenantId,
+    [string]$GitHubPat
 )
-
+$WebsiteLanguages = @('de','en')
 $Scope = "https://storage.azure.com/.default"
 $TokenEndpoint = "https://login.microsoftonline.com/$tenantId/oauth2/v2.0/token"
 $Body = @{
@@ -47,7 +48,7 @@ foreach ($Version in $sortedVersions){
 
 $Base64DownloadPageContent = [System.Convert]::ToBase64String([System.Text.Encoding]::UTF8.GetBytes($DownloadPageContent))
 foreach ($WebsiteLanguage in $WebsiteLanguages){
-    $ResponseMessage = ConvertFrom-Json(curl -Uri "https://api.github.com/repos/ChristianFloecklbauer/New-Docs-Test/contents/content/${WebsiteLanguage}-${WebsiteLanguage}/Apps/Downloads/_index.md" -Method Get -H @{"Authorization"= "Bearer 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"})
+    $ResponseMessage = ConvertFrom-Json(curl -Uri "https://api.github.com/repos/ChristianFloecklbauer/New-Docs-Test/contents/content/${WebsiteLanguage}-${WebsiteLanguage}/Apps/Downloads/_index.md" -Method Get -H @{"Authorization"= "Bearer $GitHubPat"})
     $RequestBody = @"
     {
       "message": "Updated Download Page ${WebsiteLanguage}",
@@ -59,5 +60,7 @@ foreach ($WebsiteLanguage in $WebsiteLanguages){
         "sha": "$($ResponseMessage.sha)"
     }
 "@
-    curl -Uri "https://api.github.com/repos/ChristianFloecklbauer/New-Docs-Test/contents/content/${WebsiteLanguage}-${WebsiteLanguage}/Apps/Downloads/_index.md" -Method Put -H @{"Authorization"= "Bearer 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"} -Body $RequestBody
+  $Response =  curl -Uri "https://api.github.com/repos/ChristianFloecklbauer/New-Docs-Test/contents/content/${WebsiteLanguage}-${WebsiteLanguage}/Apps/Downloads/_index.md" -Method Put -H @{"Authorization"= "Bearer $GitHubPat"} -Body $RequestBody
+  $Response
 }
+
