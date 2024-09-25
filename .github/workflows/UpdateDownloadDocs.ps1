@@ -14,7 +14,7 @@ $Body = @{
     client_secret = "$ClientSecret"
 }
 $Body = $Body | ConvertTo-Json
-Write-Jost($Body)
+Write-Host($Body)
 $Response = Invoke-RestMethod -Method Post -Uri $TokenEndpoint -Body $Body -ContentType "application/json"
 
 $AccessToken = $Response.access_token
