@@ -1,4 +1,11 @@
-#### 25.0.0.0
+---
+title: "Downloads"
+date: 2020-02-28T10:08:56+09:00
+description: 
+draft: false
+collapsible: true
+weight: 5
+---#### 25.0.0.0
 #### 24.5.0.0
 #### 24.4.0.0
 [24.4.0.0_Connector 365 Addressee Control_1.7.12390.11_RT.app](https://belwareapps.blob.core.windows.net/apps/24.4.0.0/Connector%20365%20Addressee%20Control/24.4.0.0_Connector%20365%20Addressee%20Control_1.7.12390.11_RT.app)
