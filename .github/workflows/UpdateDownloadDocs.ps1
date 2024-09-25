@@ -13,7 +13,7 @@ $Body = @{
     grant_type    = "client_credentials"
     client_secret = $ClientSecret
 }
-
+$Body
 $Response = Invoke-RestMethod -Method Post -Uri $TokenEndpoint -ContentType "application/x-www-form-urlencoded" -Body $Body
 
 $AccessToken = $Response.access_token
