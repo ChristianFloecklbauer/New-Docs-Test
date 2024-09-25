@@ -1,8 +1,7 @@
 name: Update Download Page on BELWARE Docs Website
 on:
-  push
-  #schedule:
-  #  - cron:  '0 0 * * *'
+  schedule:
+    - cron:  '0 10 * * *'
 jobs:
   run-script:
     runs-on: windows-latest
