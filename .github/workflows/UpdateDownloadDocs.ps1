@@ -24,7 +24,7 @@ $Headers = @{
     "Accept" = "application/json;odata=nometadata"
 }
 
-# Check if new BC Versionen were added within last 24h
+# Check if new BC Versions were added within last 24h
 $CurrentTimestamp = (Get-Date).ToUniversalTime().AddDays(-1)
 $FormattedTimestamp = $CurrentTimestamp.ToString("yyyy-MM-ddTHH:mm:ssZ")
 $TableFilter = "Timestamp%20gt%20datetime'$FormattedTimestamp'"
