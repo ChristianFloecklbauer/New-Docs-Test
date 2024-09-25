@@ -1,7 +1,8 @@
 name: Update Download Page on BELWARE Docs Website
 on:
-  schedule:
-    - cron:  '0 0 * * *'
+  push
+  #schedule:
+  #  - cron:  '0 0 * * *'
 jobs:
   run-script:
     runs-on: windows-latest
@@ -13,4 +14,4 @@ jobs:
       - name: Run PowerShell Script with Secret
         shell: pwsh
         run: |
-          ./UpdateDownloadDocs.ps1 -ClientId: ${{ secrets.CLIENT_ID }} -ClientSecret: ${{ secrets.CLIENT_SECRET }} TenantId: ${{ secrets.TENANT_ID }}
+          ./.github/workflows/UpdateDownloadDocs.ps1 -ClientId: ${{ secrets.CLIENT_ID }} -ClientSecret: ${{ secrets.CLIENT_SECRET }} TenantId: ${{ secrets.TENANT_ID }}
