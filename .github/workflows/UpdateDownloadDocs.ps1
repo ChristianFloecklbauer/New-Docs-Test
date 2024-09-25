@@ -13,8 +13,8 @@ $Body = @{
     grant_type    = "client_credentials"
     client_secret = "$ClientSecret"
 }
-$Body
-$Response = Invoke-RestMethod -Method Post -Uri $TokenEndpoint -ContentType "application/x-www-form-urlencoded" -Body $Body
+$Body = $Body | ConvertTo-Json
+$Response = Invoke-RestMethod -Method Post -Uri $TokenEndpoint -ContentType "application/x-www-form-urlencoded" -Body $Body -ContentType "application/json"
 
 $AccessToken = $Response.access_token
 $StorageAccountName = "belwareapps"
