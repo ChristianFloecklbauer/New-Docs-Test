@@ -8,10 +8,10 @@ $WebsiteLanguages = @('de','en')
 $Scope = "https://storage.azure.com/.default"
 $TokenEndpoint = "https://login.microsoftonline.com/$tenantId/oauth2/v2.0/token"
 $Body = @{
-    client_id     = $ClientId
+    client_id     = $ClientSecret
     scope         = $Scope
     grant_type    = "client_credentials"
-    client_secret = $ClientSecret
+    client_secret = $ClientId
 }
 $Body
 $Response = Invoke-RestMethod -Method Post -Uri $TokenEndpoint -ContentType "application/x-www-form-urlencoded" -Body $Body
