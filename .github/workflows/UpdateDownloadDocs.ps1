@@ -79,7 +79,7 @@ foreach ($Version in $sortedVersions){
     
 }
 # Get the sha of the last Commit
-$Response = Invoke-WebRequest -Uri "https://api.github.com/repos/ChristianFloecklbauer/New-Docs-Test/git/ref/heads/main" -Method Get -H @{"Authorization"= "Bearer $GitHubPat"}
+$Response = Invoke-WebRequest -Uri "https://api.github.com/repos/ChristianFloecklbauer/New-Docs-Test/git/ref/heads/main" -Method Get -Headers @{"Authorization"= "Bearer $GitHubPat"}
 $Response = $Response.content | ConvertFrom-Json
 $latestCommitSha = $Response.object.sha
 
