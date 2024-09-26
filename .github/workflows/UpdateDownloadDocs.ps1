@@ -54,10 +54,10 @@ $SortedVersions = $BcVersions | ForEach-Object { [System.Version]$_ } | Sort-Obj
 $DownloadPageContent = @"
 ---
 title: "Downloads"
-date: 2020-02-28T10:08:56+09:00
+date: $FormattedTimestamp
 description: 
 draft: false
-collapsible: true
+collapsible: false
 weight: 5
 ---
 "@
