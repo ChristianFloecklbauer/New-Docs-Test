@@ -34,7 +34,7 @@ $Response = Invoke-WebRequest -Uri $ContainerUrl -Method Get -Headers $Headers
 $ResponseContent = $Response.content | ConvertFrom-Json
 
 if ($ResponseContent.value.Count -eq 0){
-    Write-Host("No new Version within the last 24h found")
+    Write-Host("No new App Version within the last 24h found")
     exit
 }
 
