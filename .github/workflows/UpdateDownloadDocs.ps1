@@ -29,7 +29,7 @@ $CurrentTimestamp = (Get-Date).ToUniversalTime().AddDays(-1)
 $FormattedTimestamp = $CurrentTimestamp.ToString("yyyy-MM-ddTHH:mm:ssZ")
 $TableFilter = "Timestamp%20gt%20datetime'$FormattedTimestamp'"
 $UrlEncodedTableFilter = [System.Web.HttpUtility]::UrlEncode($TableFilter)
-$ContainerUrl = "https://belwareapps.table.core.windows.net/BcVersions()?`$filter=$TableFilter"
+$ContainerUrl = "https://belwareapps.table.core.windows.net/AppVersions()?`$filter=$TableFilter"
 $Response = Invoke-WebRequest -Uri $ContainerUrl -Method Get -Headers $Headers 
 $ResponseContent = $Response.content | ConvertFrom-Json
 
