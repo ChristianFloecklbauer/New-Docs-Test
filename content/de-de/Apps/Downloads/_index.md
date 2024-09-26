@@ -5,7 +5,8 @@ description:
 draft: false
 collapsible: true
 weight: 5
----#### 24.5.0.0
+---#### 25.0.0.0
+#### 24.5.0.0
 #### 24.4.0.0
 [24.4.0.0_Connector 365 Addressee Control_1.7.12390.11_RT.app](https://belwareapps.blob.core.windows.net/apps/24.4.0.0/Connector%20365%20Addressee%20Control/24.4.0.0_Connector%20365%20Addressee%20Control_1.7.12390.11_RT.app)
 [24.4.0.0_Connector 365 Base_2.22.12388.0_RT.app](https://belwareapps.blob.core.windows.net/apps/24.4.0.0/Connector%20365%20Base/24.4.0.0_Connector%20365%20Base_2.22.12388.0_RT.app)
