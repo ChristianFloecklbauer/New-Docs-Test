@@ -1,12 +1,13 @@
 ---
 title: "Downloads"
-date: 2020-02-28T10:08:56+09:00
+date: 2024-09-26T09:10:03Z
 description: 
 draft: false
-collapsible: true
+collapsible: false
 weight: 5
----#### 25.0.0.0
+---
 #### 24.5.0.0
+[24.5.0.0_Connector 365 Base_2.22.13200.0_RT.app](https://belwareapps.blob.core.windows.net/apps/24.5.0.0/Connector%20365%20Base/24.5.0.0_Connector%20365%20Base_2.22.13200.0_RT.app)
 #### 24.4.0.0
 [24.4.0.0_Connector 365 Addressee Control_1.7.12390.11_RT.app](https://belwareapps.blob.core.windows.net/apps/24.4.0.0/Connector%20365%20Addressee%20Control/24.4.0.0_Connector%20365%20Addressee%20Control_1.7.12390.11_RT.app)
 [24.4.0.0_Connector 365 Base_2.22.12388.0_RT.app](https://belwareapps.blob.core.windows.net/apps/24.4.0.0/Connector%20365%20Base/24.4.0.0_Connector%20365%20Base_2.22.12388.0_RT.app)
@@ -78,7 +79,7 @@ weight: 5
 [24.0.0.0_Connector 365 Addressee Control_1.7.9790.8_RT.app](https://belwareapps.blob.core.windows.net/apps/24.0.0.0/Connector%20365%20Addressee%20Control/24.0.0.0_Connector%20365%20Addressee%20Control_1.7.9790.8_RT.app)
 [24.0.0.0_Connector 365 Base_2.22.12324.0_RT.app](https://belwareapps.blob.core.windows.net/apps/24.0.0.0/Connector%20365%20Base/24.0.0.0_Connector%20365%20Base_2.22.12324.0_RT.app)
 [24.0.0.0_Connector 365 CTI for STARFACE_2.2.9709.1_RT.app](https://belwareapps.blob.core.windows.net/apps/24.0.0.0/Connector%20365%20CTI%20for%20STARFACE/24.0.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9709.1_RT.app)
-[24.0.0.0_Connector 365 Custom Filename_1.2.9707.1_RT.app](https://belwareapps.blob.core.windows.net/apps/24.0.0.0/Connector%20365%20Custom%20Filename/24.0.0.0_Connector%20365%20Custom%20Filename_1.2.9707.1_RT.app)
+[24.0.0.0_Connector 365 Custom Filename_1.2.13259.1_RT.app](https://belwareapps.blob.core.windows.net/apps/24.0.0.0/Connector%20365%20Custom%20Filename/24.0.0.0_Connector%20365%20Custom%20Filename_1.2.13259.1_RT.app)
 [24.0.0.0_Connector 365 E-POST_2.9.9704.5_RT.app](https://belwareapps.blob.core.windows.net/apps/24.0.0.0/Connector%20365%20E-POST/24.0.0.0_Connector%20365%20E-POST_2.9.9704.5_RT.app)
 [24.0.0.0_Connector 365 Easy Batch_2.17.12325.0_RT.app](https://belwareapps.blob.core.windows.net/apps/24.0.0.0/Connector%20365%20Easy%20Batch/24.0.0.0_Connector%20365%20Easy%20Batch_2.17.12325.0_RT.app)
 [24.0.0.0_Connector 365 Easy Document Pin_2.1.9706.1_RT.app](https://belwareapps.blob.core.windows.net/apps/24.0.0.0/Connector%20365%20Easy%20Document%20Pin/24.0.0.0_Connector%20365%20Easy%20Document%20Pin_2.1.9706.1_RT.app)
