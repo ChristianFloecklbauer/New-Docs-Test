@@ -1,19 +1,31 @@
 ---
 title: "Downloads"
-date: 2024-09-27T15:41:50Z
+date: 2024-09-28T15:39:41Z
 description: 
 draft: false
 collapsible: false
 weight: 5
 ---
 #### 24.5.0.0
+[24.5.0.0_Connector 365 Addressee Control_1.7.13860.11_RT.app](https://belwareapps.blob.core.windows.net/apps/24.5.0.0/Connector%20365%20Addressee%20Control/24.5.0.0_Connector%20365%20Addressee%20Control_1.7.13860.11_RT.app)
 [24.5.0.0_Connector 365 Base_2.22.13855.0_RT.app](https://belwareapps.blob.core.windows.net/apps/24.5.0.0/Connector%20365%20Base/24.5.0.0_Connector%20365%20Base_2.22.13855.0_RT.app)
+[24.5.0.0_Connector 365 CTI for STARFACE_2.2.13849.1_RT.app](https://belwareapps.blob.core.windows.net/apps/24.5.0.0/Connector%20365%20CTI%20for%20STARFACE/24.5.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.13849.1_RT.app)
+[24.5.0.0_Connector 365 Custom Filename_1.2.13848.1_RT.app](https://belwareapps.blob.core.windows.net/apps/24.5.0.0/Connector%20365%20Custom%20Filename/24.5.0.0_Connector%20365%20Custom%20Filename_1.2.13848.1_RT.app)
+[24.5.0.0_Connector 365 E-POST_2.9.13902.7_RT.app](https://belwareapps.blob.core.windows.net/apps/24.5.0.0/Connector%20365%20E-POST/24.5.0.0_Connector%20365%20E-POST_2.9.13902.7_RT.app)
+[24.5.0.0_Connector 365 Easy Document Pin_2.1.13859.1_RT.app](https://belwareapps.blob.core.windows.net/apps/24.5.0.0/Connector%20365%20Easy%20Document%20Pin/24.5.0.0_Connector%20365%20Easy%20Document%20Pin_2.1.13859.1_RT.app)
+[24.5.0.0_Connector 365 Easy Supra_1.0.13856.4_RT.app](https://belwareapps.blob.core.windows.net/apps/24.5.0.0/Connector%20365%20Easy%20Supra/24.5.0.0_Connector%20365%20Easy%20Supra_1.0.13856.4_RT.app)
+[24.5.0.0_Connector 365 Mail Attachments Plus_2.9.13906.0_RT.app](https://belwareapps.blob.core.windows.net/apps/24.5.0.0/Connector%20365%20Mail%20Attachments%20Plus/24.5.0.0_Connector%20365%20Mail%20Attachments%20Plus_2.9.13906.0_RT.app)
+[24.5.0.0_Connector 365 Mail Subject Plus_2.9.13907.0_RT.app](https://belwareapps.blob.core.windows.net/apps/24.5.0.0/Connector%20365%20Mail%20Subject%20Plus/24.5.0.0_Connector%20365%20Mail%20Subject%20Plus_2.9.13907.0_RT.app)
+[24.5.0.0_Connector 365 PDF_1.1.13908.0_RT.app](https://belwareapps.blob.core.windows.net/apps/24.5.0.0/Connector%20365%20PDF/24.5.0.0_Connector%20365%20PDF_1.1.13908.0_RT.app)
+[24.5.0.0_Connector 365 Report Layout Plus_1.5.13910.3_RT.app](https://belwareapps.blob.core.windows.net/apps/24.5.0.0/Connector%20365%20Report%20Layout%20Plus/24.5.0.0_Connector%20365%20Report%20Layout%20Plus_1.5.13910.3_RT.app)
+[24.5.0.0_Connector 365 XRechnung_2.9.13857.13_RT.app](https://belwareapps.blob.core.windows.net/apps/24.5.0.0/Connector%20365%20XRechnung/24.5.0.0_Connector%20365%20XRechnung_2.9.13857.13_RT.app)
+[24.5.0.0_Connector 365 pdfPaper_1.9.13909.1_RT.app](https://belwareapps.blob.core.windows.net/apps/24.5.0.0/Connector%20365%20pdfPaper/24.5.0.0_Connector%20365%20pdfPaper_1.9.13909.1_RT.app)
 #### 24.4.0.0
 [24.4.0.0_Connector 365 Addressee Control_1.7.12390.11_RT.app](https://belwareapps.blob.core.windows.net/apps/24.4.0.0/Connector%20365%20Addressee%20Control/24.4.0.0_Connector%20365%20Addressee%20Control_1.7.12390.11_RT.app)
 [24.4.0.0_Connector 365 Base_2.22.12388.0_RT.app](https://belwareapps.blob.core.windows.net/apps/24.4.0.0/Connector%20365%20Base/24.4.0.0_Connector%20365%20Base_2.22.12388.0_RT.app)
 [24.4.0.0_Connector 365 CTI for STARFACE_2.2.12402.1_RT.app](https://belwareapps.blob.core.windows.net/apps/24.4.0.0/Connector%20365%20CTI%20for%20STARFACE/24.4.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.12402.1_RT.app)
 [24.4.0.0_Connector 365 Custom Filename_1.2.12400.1_RT.app](https://belwareapps.blob.core.windows.net/apps/24.4.0.0/Connector%20365%20Custom%20Filename/24.4.0.0_Connector%20365%20Custom%20Filename_1.2.12400.1_RT.app)
-[24.4.0.0_Connector 365 E-POST_2.9.12397.6_RT.app](https://belwareapps.blob.core.windows.net/apps/24.4.0.0/Connector%20365%20E-POST/24.4.0.0_Connector%20365%20E-POST_2.9.12397.6_RT.app)
+[24.4.0.0_Connector 365 E-POST_2.9.13899.7_RT.app](https://belwareapps.blob.core.windows.net/apps/24.4.0.0/Connector%20365%20E-POST/24.4.0.0_Connector%20365%20E-POST_2.9.13899.7_RT.app)
 [24.4.0.0_Connector 365 Easy Batch_2.18.13777.0_RT.app](https://belwareapps.blob.core.windows.net/apps/24.4.0.0/Connector%20365%20Easy%20Batch/24.4.0.0_Connector%20365%20Easy%20Batch_2.18.13777.0_RT.app)
 [24.4.0.0_Connector 365 Easy Document Pin_2.1.12399.1_RT.app](https://belwareapps.blob.core.windows.net/apps/24.4.0.0/Connector%20365%20Easy%20Document%20Pin/24.4.0.0_Connector%20365%20Easy%20Document%20Pin_2.1.12399.1_RT.app)
 [24.4.0.0_Connector 365 Easy Supra_1.0.12398.4_RT.app](https://belwareapps.blob.core.windows.net/apps/24.4.0.0/Connector%20365%20Easy%20Supra/24.4.0.0_Connector%20365%20Easy%20Supra_1.0.12398.4_RT.app)
@@ -29,7 +41,7 @@ weight: 5
 [24.3.0.0_Connector 365 Base_2.22.12372.0_RT.app](https://belwareapps.blob.core.windows.net/apps/24.3.0.0/Connector%20365%20Base/24.3.0.0_Connector%20365%20Base_2.22.12372.0_RT.app)
 [24.3.0.0_Connector 365 CTI for STARFACE_2.2.12386.1_RT.app](https://belwareapps.blob.core.windows.net/apps/24.3.0.0/Connector%20365%20CTI%20for%20STARFACE/24.3.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.12386.1_RT.app)
 [24.3.0.0_Connector 365 Custom Filename_1.2.12384.1_RT.app](https://belwareapps.blob.core.windows.net/apps/24.3.0.0/Connector%20365%20Custom%20Filename/24.3.0.0_Connector%20365%20Custom%20Filename_1.2.12384.1_RT.app)
-[24.3.0.0_Connector 365 E-POST_2.9.12381.6_RT.app](https://belwareapps.blob.core.windows.net/apps/24.3.0.0/Connector%20365%20E-POST/24.3.0.0_Connector%20365%20E-POST_2.9.12381.6_RT.app)
+[24.3.0.0_Connector 365 E-POST_2.9.13898.7_RT.app](https://belwareapps.blob.core.windows.net/apps/24.3.0.0/Connector%20365%20E-POST/24.3.0.0_Connector%20365%20E-POST_2.9.13898.7_RT.app)
 [24.3.0.0_Connector 365 Easy Batch_2.18.13776.0_RT.app](https://belwareapps.blob.core.windows.net/apps/24.3.0.0/Connector%20365%20Easy%20Batch/24.3.0.0_Connector%20365%20Easy%20Batch_2.18.13776.0_RT.app)
 [24.3.0.0_Connector 365 Easy Document Pin_2.1.12383.1_RT.app](https://belwareapps.blob.core.windows.net/apps/24.3.0.0/Connector%20365%20Easy%20Document%20Pin/24.3.0.0_Connector%20365%20Easy%20Document%20Pin_2.1.12383.1_RT.app)
 [24.3.0.0_Connector 365 Easy Supra_1.0.12382.4_RT.app](https://belwareapps.blob.core.windows.net/apps/24.3.0.0/Connector%20365%20Easy%20Supra/24.3.0.0_Connector%20365%20Easy%20Supra_1.0.12382.4_RT.app)
@@ -46,7 +58,7 @@ weight: 5
 [24.2.0.0_Connector 365 Base_2.22.12356.0_RT.app](https://belwareapps.blob.core.windows.net/apps/24.2.0.0/Connector%20365%20Base/24.2.0.0_Connector%20365%20Base_2.22.12356.0_RT.app)
 [24.2.0.0_Connector 365 CTI for STARFACE_2.2.12370.1_RT.app](https://belwareapps.blob.core.windows.net/apps/24.2.0.0/Connector%20365%20CTI%20for%20STARFACE/24.2.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.12370.1_RT.app)
 [24.2.0.0_Connector 365 Custom Filename_1.2.12368.1_RT.app](https://belwareapps.blob.core.windows.net/apps/24.2.0.0/Connector%20365%20Custom%20Filename/24.2.0.0_Connector%20365%20Custom%20Filename_1.2.12368.1_RT.app)
-[24.2.0.0_Connector 365 E-POST_2.9.12365.6_RT.app](https://belwareapps.blob.core.windows.net/apps/24.2.0.0/Connector%20365%20E-POST/24.2.0.0_Connector%20365%20E-POST_2.9.12365.6_RT.app)
+[24.2.0.0_Connector 365 E-POST_2.9.13897.7_RT.app](https://belwareapps.blob.core.windows.net/apps/24.2.0.0/Connector%20365%20E-POST/24.2.0.0_Connector%20365%20E-POST_2.9.13897.7_RT.app)
 [24.2.0.0_Connector 365 Easy Batch_2.18.13775.0_RT.app](https://belwareapps.blob.core.windows.net/apps/24.2.0.0/Connector%20365%20Easy%20Batch/24.2.0.0_Connector%20365%20Easy%20Batch_2.18.13775.0_RT.app)
 [24.2.0.0_Connector 365 Easy Document Pin_2.1.12367.1_RT.app](https://belwareapps.blob.core.windows.net/apps/24.2.0.0/Connector%20365%20Easy%20Document%20Pin/24.2.0.0_Connector%20365%20Easy%20Document%20Pin_2.1.12367.1_RT.app)
 [24.2.0.0_Connector 365 Easy Supra_1.0.12366.4_RT.app](https://belwareapps.blob.core.windows.net/apps/24.2.0.0/Connector%20365%20Easy%20Supra/24.2.0.0_Connector%20365%20Easy%20Supra_1.0.12366.4_RT.app)
@@ -63,7 +75,7 @@ weight: 5
 [24.1.0.0_Connector 365 Base_2.22.12340.0_RT.app](https://belwareapps.blob.core.windows.net/apps/24.1.0.0/Connector%20365%20Base/24.1.0.0_Connector%20365%20Base_2.22.12340.0_RT.app)
 [24.1.0.0_Connector 365 CTI for STARFACE_2.2.12354.1_RT.app](https://belwareapps.blob.core.windows.net/apps/24.1.0.0/Connector%20365%20CTI%20for%20STARFACE/24.1.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.12354.1_RT.app)
 [24.1.0.0_Connector 365 Custom Filename_1.2.12352.1_RT.app](https://belwareapps.blob.core.windows.net/apps/24.1.0.0/Connector%20365%20Custom%20Filename/24.1.0.0_Connector%20365%20Custom%20Filename_1.2.12352.1_RT.app)
-[24.1.0.0_Connector 365 E-POST_2.9.12349.6_RT.app](https://belwareapps.blob.core.windows.net/apps/24.1.0.0/Connector%20365%20E-POST/24.1.0.0_Connector%20365%20E-POST_2.9.12349.6_RT.app)
+[24.1.0.0_Connector 365 E-POST_2.9.13896.7_RT.app](https://belwareapps.blob.core.windows.net/apps/24.1.0.0/Connector%20365%20E-POST/24.1.0.0_Connector%20365%20E-POST_2.9.13896.7_RT.app)
 [24.1.0.0_Connector 365 Easy Batch_2.18.13774.0_RT.app](https://belwareapps.blob.core.windows.net/apps/24.1.0.0/Connector%20365%20Easy%20Batch/24.1.0.0_Connector%20365%20Easy%20Batch_2.18.13774.0_RT.app)
 [24.1.0.0_Connector 365 Easy Document Pin_2.1.12351.1_RT.app](https://belwareapps.blob.core.windows.net/apps/24.1.0.0/Connector%20365%20Easy%20Document%20Pin/24.1.0.0_Connector%20365%20Easy%20Document%20Pin_2.1.12351.1_RT.app)
 [24.1.0.0_Connector 365 Easy Supra_1.0.12350.4_RT.app](https://belwareapps.blob.core.windows.net/apps/24.1.0.0/Connector%20365%20Easy%20Supra/24.1.0.0_Connector%20365%20Easy%20Supra_1.0.12350.4_RT.app)
@@ -80,7 +92,7 @@ weight: 5
 [24.0.0.0_Connector 365 Base_2.22.12324.0_RT.app](https://belwareapps.blob.core.windows.net/apps/24.0.0.0/Connector%20365%20Base/24.0.0.0_Connector%20365%20Base_2.22.12324.0_RT.app)
 [24.0.0.0_Connector 365 CTI for STARFACE_2.2.9709.1_RT.app](https://belwareapps.blob.core.windows.net/apps/24.0.0.0/Connector%20365%20CTI%20for%20STARFACE/24.0.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.9709.1_RT.app)
 [24.0.0.0_Connector 365 Custom Filename_1.2.13128.1_RT.app](https://belwareapps.blob.core.windows.net/apps/24.0.0.0/Connector%20365%20Custom%20Filename/24.0.0.0_Connector%20365%20Custom%20Filename_1.2.13128.1_RT.app)
-[24.0.0.0_Connector 365 E-POST_2.9.9704.5_RT.app](https://belwareapps.blob.core.windows.net/apps/24.0.0.0/Connector%20365%20E-POST/24.0.0.0_Connector%20365%20E-POST_2.9.9704.5_RT.app)
+[24.0.0.0_Connector 365 E-POST_2.9.13895.7_RT.app](https://belwareapps.blob.core.windows.net/apps/24.0.0.0/Connector%20365%20E-POST/24.0.0.0_Connector%20365%20E-POST_2.9.13895.7_RT.app)
 [24.0.0.0_Connector 365 Easy Batch_2.18.13773.0_RT.app](https://belwareapps.blob.core.windows.net/apps/24.0.0.0/Connector%20365%20Easy%20Batch/24.0.0.0_Connector%20365%20Easy%20Batch_2.18.13773.0_RT.app)
 [24.0.0.0_Connector 365 Easy Document Pin_2.1.9706.1_RT.app](https://belwareapps.blob.core.windows.net/apps/24.0.0.0/Connector%20365%20Easy%20Document%20Pin/24.0.0.0_Connector%20365%20Easy%20Document%20Pin_2.1.9706.1_RT.app)
 [24.0.0.0_Connector 365 Easy Supra_1.0.9705.4_RT.app](https://belwareapps.blob.core.windows.net/apps/24.0.0.0/Connector%20365%20Easy%20Supra/24.0.0.0_Connector%20365%20Easy%20Supra_1.0.9705.4_RT.app)
@@ -131,7 +143,7 @@ weight: 5
 [23.9.0.0_Connector 365 Base_2.22.12308.0_RT.app](https://belwareapps.blob.core.windows.net/apps/23.9.0.0/Connector%20365%20Base/23.9.0.0_Connector%20365%20Base_2.22.12308.0_RT.app)
 [23.9.0.0_Connector 365 CTI for STARFACE_2.2.12322.1_RT.app](https://belwareapps.blob.core.windows.net/apps/23.9.0.0/Connector%20365%20CTI%20for%20STARFACE/23.9.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.12322.1_RT.app)
 [23.9.0.0_Connector 365 Custom Filename_1.2.12320.1_RT.app](https://belwareapps.blob.core.windows.net/apps/23.9.0.0/Connector%20365%20Custom%20Filename/23.9.0.0_Connector%20365%20Custom%20Filename_1.2.12320.1_RT.app)
-[23.9.0.0_Connector 365 E-POST_2.9.12317.6_RT.app](https://belwareapps.blob.core.windows.net/apps/23.9.0.0/Connector%20365%20E-POST/23.9.0.0_Connector%20365%20E-POST_2.9.12317.6_RT.app)
+[23.9.0.0_Connector 365 E-POST_2.9.13894.7_RT.app](https://belwareapps.blob.core.windows.net/apps/23.9.0.0/Connector%20365%20E-POST/23.9.0.0_Connector%20365%20E-POST_2.9.13894.7_RT.app)
 [23.9.0.0_Connector 365 Easy Batch_2.18.13772.0_RT.app](https://belwareapps.blob.core.windows.net/apps/23.9.0.0/Connector%20365%20Easy%20Batch/23.9.0.0_Connector%20365%20Easy%20Batch_2.18.13772.0_RT.app)
 [23.9.0.0_Connector 365 Easy Document Pin_2.1.12319.1_RT.app](https://belwareapps.blob.core.windows.net/apps/23.9.0.0/Connector%20365%20Easy%20Document%20Pin/23.9.0.0_Connector%20365%20Easy%20Document%20Pin_2.1.12319.1_RT.app)
 [23.9.0.0_Connector 365 Easy Supra_1.0.12318.4_RT.app](https://belwareapps.blob.core.windows.net/apps/23.9.0.0/Connector%20365%20Easy%20Supra/23.9.0.0_Connector%20365%20Easy%20Supra_1.0.12318.4_RT.app)
@@ -148,7 +160,7 @@ weight: 5
 [23.8.0.0_Connector 365 Base_2.22.12292.0_RT.app](https://belwareapps.blob.core.windows.net/apps/23.8.0.0/Connector%20365%20Base/23.8.0.0_Connector%20365%20Base_2.22.12292.0_RT.app)
 [23.8.0.0_Connector 365 CTI for STARFACE_2.2.12306.1_RT.app](https://belwareapps.blob.core.windows.net/apps/23.8.0.0/Connector%20365%20CTI%20for%20STARFACE/23.8.0.0_Connector%20365%20CTI%20for%20STARFACE_2.2.12306.1_RT.app)
 [23.8.0.0_Connector 365 Custom Filename_1.2.12304.1_RT.app](https://belwareapps.blob.core.windows.net/apps/23.8.0.0/Connector%20365%20Custom%20Filename/23.8.0.0_Connector%20365%20Custom%20Filename_1.2.12304.1_RT.app)
-[23.8.0.0_Connector 365 E-POST_2.9.12301.6_RT.app](https://belwareapps.blob.core.windows.net/apps/23.8.0.0/Connector%20365%20E-POST/23.8.0.0_Connector%20365%20E-POST_2.9.12301.6_RT.app)
+[23.8.0.0_Connector 365 E-POST_2.9.13893.7_RT.app](https://belwareapps.blob.core.windows.net/apps/23.8.0.0/Connector%20365%20E-POST/23.8.0.0_Connector%20365%20E-POST_2.9.13893.7_RT.app)
 [23.8.0.0_Connector 365 Easy Batch_2.18.13771.0_RT.app](https://belwareapps.blob.core.windows.net/apps/23.8.0.0/Connector%20365%20Easy%20Batch/23.8.0.0_Connector%20365%20Easy%20Batch_2.18.13771.0_RT.app)
 [23.8.0.0_Connector 365 Easy Document Pin_2.1.12303.1_RT.app](https://belwareapps.blob.core.windows.net/apps/23.8.0.0/Connector%20365%20Easy%20Document%20Pin/23.8.0.0_Connector%20365%20Easy%20Document%20Pin_2.1.12303.1_RT.app)
 [23.8.0.0_Connector 365 Easy Supra_1.0.12302.4_RT.app](https://belwareapps.blob.core.windows.net/apps/23.8.0.0/Connector%20365%20Easy%20Supra/23.8.0.0_Connector%20365%20Easy%20Supra_1.0.12302.4_RT.app)
